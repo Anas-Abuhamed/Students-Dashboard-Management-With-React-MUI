@@ -133,7 +133,7 @@ src
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Anas-Abuhamed/student-management-dashboard.git
+git clone https://github.com/Anas-Abuhamed/Students-Dashboard-Management-With-React-MUI.git
 cd student-management-dashboard
 ```
 
